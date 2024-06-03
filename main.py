@@ -25,7 +25,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title of the app with red outline
-st.markdown('<h1 class="title">Sales Predictions APP</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="title"> Upscaling Engine App</h1>', unsafe_allow_html=True)
 
 
 
