@@ -4,7 +4,7 @@ from scipy.optimize import linprog
 from pulp import *
 from pyomo.environ import *
 from io import BytesIO
-from streamlit_extras.stylable_container import stylable_container
+
 
 # Custom CSS for the title and download button
 st.markdown("""
